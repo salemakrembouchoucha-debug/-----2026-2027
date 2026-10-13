@@ -1,0 +1,6 @@
+{
+  "name": "مراجعة العلوم للصف الثامن - قطر",
+  "description": "تطبيق تفاعلي ونسخة طباعة رسمية لمراجعة مادة العلوم للصف الثامن وفق المنهج القطري - مدرسة الريان الخاصة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
